@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+lorem50lorem50lorem50lorem50lorem50lorem50lorem50
+=======
 lorem30lorem30lorem30lorem30lorem30lorem30lorem30lorem30
+>>>>>>> 8b935c640a31c13523fac8a599b2e1ad3e59c996
